@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OCRTrans/static/css/main.e002a054.css",
-    "main.js": "/OCRTrans/static/js/main.c36972f8.js",
-    "static/js/787.c0dc0e6c.chunk.js": "/OCRTrans/static/js/787.c0dc0e6c.chunk.js",
-    "index.html": "/OCRTrans/index.html",
-    "main.e002a054.css.map": "/OCRTrans/static/css/main.e002a054.css.map",
-    "main.c36972f8.js.map": "/OCRTrans/static/js/main.c36972f8.js.map",
-    "787.c0dc0e6c.chunk.js.map": "/OCRTrans/static/js/787.c0dc0e6c.chunk.js.map"
+    "main.css": "/ocr-trans/static/css/main.e002a054.css",
+    "main.js": "/ocr-trans/static/js/main.615ff6e4.js",
+    "static/js/787.498bf48e.chunk.js": "/ocr-trans/static/js/787.498bf48e.chunk.js",
+    "index.html": "/ocr-trans/index.html",
+    "main.e002a054.css.map": "/ocr-trans/static/css/main.e002a054.css.map",
+    "main.615ff6e4.js.map": "/ocr-trans/static/js/main.615ff6e4.js.map",
+    "787.498bf48e.chunk.js.map": "/ocr-trans/static/js/787.498bf48e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e002a054.css",
-    "static/js/main.c36972f8.js"
+    "static/js/main.615ff6e4.js"
   ]
 }
