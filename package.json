@@ -1,6 +1,6 @@
 {
   "homepage": "https://ventrix135.github.io/ocr-trans",
-  "name": "ocr-trans",
+  "name": "ocrtrans",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
